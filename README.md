@@ -1,2 +1,2 @@
-# athena
-A weather tracking and forecast web app
+# Athena
+## A weather tracking and forecast web app
