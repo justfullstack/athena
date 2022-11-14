@@ -1,0 +1,29 @@
+{
+  "name": "athena",
+  "version": "1.0.0",
+  "description": "a weather tracking & forecast app", 
+
+  "scripts": { 
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist",
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justfullstack/athena.git"
+  },
+
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1",
+    "sass": "^1.56.0"
+  },
+
+  "author": "Chege, CJN.",
+  "license": "ISC", 
+
+  "bugs": {
+    "url": "https://github.com/justfullstack/athena/issues"
+  },
+
+  "homepage": "https://github.com/justfullstack/athena#readme"
+}
